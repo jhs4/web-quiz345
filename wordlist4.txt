@@ -1,0 +1,383 @@
+able;{blade, blame, cable, table}
+acre;{carve, cater, clear, cream, grace, reach, react, scare, trace}
+aged;{badge, grade}
+aide;{aside, ideal, media}
+ally;{loyal, rally}
+also;{solar}
+amid;{admit, media}
+area;{arena, aware}
+arms;{smart}
+army;{mayor}
+aunt;{haunt}
+auto;{about, quota}
+back;{black}
+bake;{break}
+ball;{label}
+band;{brand}
+bank;{blank}
+bare;{brave, bread, break}
+base;{abuse, based, beast}
+bass;{basis}
+bath;{habit}
+beam;{blame, maybe}
+bear;{brave, bread, break}
+beat;{beast, table}
+beer;{breed, rebel}
+bell;{label}
+belt;{table}
+bend;{blend}
+best;{beast}
+bias;{basic}
+bind;{blind}
+bird;{bride}
+bite;{tribe}
+blog;{globe}
+blow;{below, elbow}
+boat;{about, boast}
+bold;{blond}
+bond;{blond, bound}
+bone;{noble}
+boot;{boost, robot}
+born;{brown}
+bowl;{below, elbow}
+burn;{urban}
+bush;{brush}
+call;{local}
+calm;{claim}
+care;{carve, cater, clear, cream, grace, reach, react, scare, trace}
+case;{cause, chase, sauce, scale, scare, space}
+cash;{chaos, chase, clash, crash}
+cast;{coast}
+cave;{carve}
+cent;{enact}
+chat;{chart, cheat, match, patch, teach, watch}
+chef;{chief}
+chip;{pitch}
+cite;{ethic, twice}
+clue;{cruel, uncle}
+coal;{vocal}
+coat;{actor, coast}
+cold;{cloud, could}
+cool;{color}
+cope;{scope}
+core;{cover, force, score}
+corn;{crown}
+cost;{coast, stock}
+crew;{screw}
+cure;{crude, cruel, curve}
+cute;{acute}
+dare;{armed, bread, dream, grade, ready, trade}
+data;{adapt}
+date;{death, trade}
+deal;{blade, delay, ideal, medal, plead}
+dear;{armed, bread, dream, grade, ready, trade}
+debt;{debut}
+deem;{embed}
+deep;{speed}
+diet;{tired}
+dime;{media, mixed}
+dirt;{dirty, drift, third, tired}
+dive;{devil, drive, video}
+door;{donor}
+down;{drown, wound}
+drag;{grade, grand, guard}
+drop;{proud}
+drug;{guard}
+dual;{adult}
+dust;{study}
+duty;{study}
+each;{beach, chase, cheap, cheat, reach, teach}
+earn;{anger, learn, range}
+ease;{cease}
+east;{beast, least, stage, stake, stare, steal, steam, waste}
+edit;{tired}
+else;{sleep, steel}
+euro;{outer, route}
+even;{event, nerve, never, seven, venue}
+ever;{every, fever, nerve, never, serve, verse}
+evil;{alive, devil, liver}
+exit;{exist}
+fact;{craft}
+fail;{final}
+fame;{flame, frame}
+fare;{after, frame}
+farm;{frame}
+fate;{after}
+fear;{after, frame}
+feat;{after}
+feel;{fleet}
+file;{field, rifle}
+fine;{infer, knife}
+fire;{brief, fiber, grief, infer, rifle}
+fish;{shift}
+flat;{fault, float}
+flaw;{awful}
+flee;{fleet}
+fond;{found}
+food;{flood}
+fool;{flood, floor}
+form;{forum}
+four;{flour, forum}
+free;{fever}
+frog;{forge}
+from;{forum}
+full;{fully}
+fund;{found}
+gain;{align, giant, grain}
+game;{image}
+gate;{agent, great, stage}
+gear;{anger, argue, grace, grade, grave, great, large, range}
+gene;{genre, green}
+gift;{fight}
+goal;{along}
+gray;{angry}
+grid;{grind}
+grin;{bring, grain, grind, reign}
+grow;{wrong}
+hair;{chair}
+half;{flash}
+hall;{shall}
+hand;{handy}
+harm;{charm, march}
+hate;{cheat, death, earth, heart, teach, wheat}
+have;{heavy}
+head;{death, shade}
+hear;{earth, heart, reach, share}
+heat;{cheat, death, earth, heart, teach, wheat}
+heel;{wheel}
+hell;{hello, shell}
+here;{cheer, sheer, there, three, where}
+hero;{horse, other, shore}
+hers;{fresh, horse, share, shore}
+hint;{night, thing, think}
+hire;{their}
+hole;{hotel, whole}
+hope;{phone}
+horn;{north}
+host;{ghost, short, shout, south}
+hour;{humor, rough}
+hunt;{haunt}
+idea;{aside, ideal, media}
+inch;{chain, niche}
+into;{joint, point}
+iron;{irony, minor}
+item;{merit}
+join;{joint}
+kill;{skill}
+kind;{drink}
+lack;{black}
+lady;{badly, daily, delay, sadly}
+lake;{alike, ankle}
+lane;{alien, alone, angel, angle, ankle, clean, learn, panel, plane}
+last;{blast, least, steal}
+late;{alert, alter, later, least, metal, plate, steal, table}
+lead;{blade, delay, ideal, medal, plead}
+leaf;{flame}
+leak;{alike, ankle}
+lean;{alien, alone, angel, angle, ankle, clean, learn, panel, plane}
+leap;{panel, place, plane, plate, plead}
+lend;{blend}
+less;{bless}
+life;{field, rifle}
+like;{alike}
+limb;{climb}
+line;{alien}
+list;{split}
+live;{alive, devil, liver}
+loan;{alone, along}
+lock;{block}
+long;{along}
+lord;{world}
+lose;{close, slope, solve}
+loud;{cloud, could, would}
+love;{glove, novel, solve}
+luck;{lucky}
+mail;{claim, email}
+male;{blame, email, flame, medal, metal, realm}
+mall;{small}
+mass;{smash}
+mate;{metal, steam}
+math;{match}
+meal;{blame, email, flame, medal, metal, realm}
+mean;{amend}
+meat;{metal, steam}
+meet;{meter, theme}
+melt;{metal}
+mere;{merge, meter}
+mile;{email, smile}
+mine;{miner}
+mode;{demon, model}
+most;{storm}
+move;{movie}
+nail;{alien, align, final, plain}
+name;{amend, means}
+near;{anger, learn, range}
+neat;{agent, enact}
+need;{dense}
+nest;{stone}
+nice;{niche, since}
+nine;{inner}
+noon;{onion}
+norm;{minor}
+nose;{noise, stone}
+note;{often, stone}
+once;{ocean}
+open;{phone}
+oral;{labor, moral, royal, solar}
+ours;{yours}
+oven;{novel}
+over;{cover, prove}
+pace;{cheap, place, space}
+pain;{paint, panic, piano, plain}
+pair;{rapid}
+pale;{panel, place, plane, plate, plead}
+park;{spark}
+part;{party}
+past;{pants, stamp}
+path;{patch}
+peak;{speak}
+peer;{creep}
+pill;{spill}
+plan;{panel, plain, plane, plant}
+plea;{panel, place, plane, plate, plead}
+plot;{pilot}
+plus;{pulse}
+pole;{slope}
+pond;{pound}
+poor;{proof, troop}
+port;{sport}
+pose;{scope, slope}
+post;{sport}
+pour;{group, proud}
+pray;{party}
+prey;{reply}
+pure;{erupt, super}
+quit;{quiet, quite}
+race;{carve, cater, clear, cream, grace, reach, react, scare, trace}
+rage;{anger, argue, grace, grade, grave, great, large, range}
+raid;{dairy, diary, drain, radio, rapid}
+rail;{rival, trail, trial}
+rain;{brain, drain, grain, train}
+rate;{after, alert, alter, cater, earth, extra, great, heart, later, react, stare, trace, trade, water}
+read;{armed, bread, dream, grade, ready, trade}
+real;{alert, alter, clear, early, large, laser, later, layer, learn, realm, relax}
+rely;{early, layer, reply}
+rent;{entry, trend}
+rest;{stare, store, terms}
+rice;{crime, price}
+rich;{chair, choir}
+ride;{bride, drive, pride, tired, weird}
+ring;{bring, grain, grind, reign}
+riot;{ratio}
+rise;{arise, raise}
+risk;{risky, skirt}
+road;{board, broad, radio}
+role;{lower}
+roof;{floor, proof}
+room;{motor}
+root;{motor, robot, troop}
+rope;{opera, power, probe, prove}
+rose;{horse, score, shore, store, worse}
+rude;{crude, under}
+ruin;{incur}
+rule;{cruel}
+rush;{brush, crush, shrug}
+sake;{shake, snake, speak, stake}
+sale;{laser, least, scale, slave, steal}
+salt;{blast, least, steal}
+same;{means, shame, steam}
+sand;{stand}
+save;{slave}
+seal;{laser, least, scale, slave, steal}
+seat;{beast, least, stage, stake, stare, steal, steam, waste}
+seed;{dense, speed}
+self;{flesh, shelf}
+sell;{shell, smell, spell}
+send;{spend}
+shed;{shade}
+shoe;{horse, house, shore, whose}
+shot;{ghost, short, shout, south}
+show;{whose}
+shut;{shout, south}
+sick;{stick}
+side;{aside, slide}
+sigh;{sight}
+sign;{swing}
+sing;{swing}
+site;{exist, spite, suite}
+slip;{split, spoil}
+snap;{pants}
+soar;{solar}
+sock;{shock, stock}
+soil;{solid, spoil}
+sole;{close, slope, solve}
+solo;{loose}
+some;{mouse, smoke}
+soon;{spoon}
+sort;{short, sport, store, storm, story, worst}
+spam;{stamp}
+span;{pants}
+spin;{spine}
+spot;{sport}
+stab;{beast, blast, boast}
+star;{smart, stair, stare, stark, trash}
+stay;{nasty}
+stem;{steam, terms}
+step;{setup, spite, upset}
+stir;{first, shirt, skirt, stair, strip, wrist}
+stop;{sport}
+such;{crush}
+suit;{suite}
+sure;{nurse, super, surge}
+tail;{trail, trial, vital}
+take;{stake}
+tale;{alert, alter, later, least, metal, plate, steal, table}
+tall;{stall}
+tank;{thank}
+tape;{plate}
+task;{stake, stark}
+team;{metal, steam}
+tear;{after, alert, alter, cater, earth, extra, great, heart, later, react, stare, trace, trade, water}
+teen;{enter, event}
+tend;{trend}
+term;{merit}
+test;{state, taste}
+than;{haunt, thank}
+thin;{night, thing, think}
+this;{shift, shirt, sight}
+thus;{shout, south}
+tide;{tired}
+till;{still}
+time;{merit}
+tiny;{unity}
+tire;{liter, merit, their, tired, tribe, write}
+tone;{often, stone}
+tour;{court, outer, route, tumor}
+trap;{party}
+tree;{enter, erect, exert, greet, meter, steer, there, three}
+trio;{ratio}
+trip;{print, strip}
+tube;{debut}
+tune;{unite}
+type;{empty}
+unit;{input, unite, unity, until}
+upon;{pound}
+urge;{argue, surge}
+user;{nurse, super, surge}
+vice;{voice}
+vote;{stove}
+wall;{allow}
+wear;{swear, water}
+west;{waste}
+what;{watch, wheat}
+wide;{weird, widen}
+wind;{widen}
+wine;{widen}
+wing;{swing}
+wire;{weird, write}
+with;{white, width}
+word;{crowd, drown, sword, world}
+yard;{dairy, diary, ready}
+yeah;{heavy}
+year;{early, layer, ready}
+zone;{dozen}

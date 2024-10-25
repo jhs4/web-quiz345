@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <h1 id="quizTitle">Choose a word length</h1>
+        <div id="startButtons">
+            <button class="startQuiz" data-wordlist="wordlist3.txt">3 letters</button>
+            <button class="startQuiz" data-wordlist="wordlist4.txt">4 letters</button>
+            <button class="startQuiz" data-wordlist="wordlist5.txt">5 letters</button>
+        </div>
+        <div id="gameInfo">
+            <p>Given a word, guess all the possible words that contain all the same letters as the given word plus one extra letter.</p>
+            <p>For example, given "WORD", you need to find "WORDS", "WORLD", "SWORD" etc.</p>
+        </div>
+        <div id="quiz" style="display: none;">
+            <input type="text" id="userGuess" placeholder="Enter your guess">
+            <button id="submitGuess">Submit</button>
+            <p id="wordDisplay"></p>
+            <!-- <p id="feedback"></p> -->
+            <button id="nextWord">Next</button>
+        </div>
+        <button id="startOver" style="display: none;">Start Over</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

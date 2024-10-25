@@ -1,0 +1,227 @@
+actor;{factor}
+after;{father}
+alert;{rental, retail, travel}
+alien;{denial, linear}
+align;{signal}
+alive;{viable}
+along;{slogan}
+alter;{rental, retail, travel}
+angel;{glance}
+anger;{danger, garden, orange, regain}
+angle;{glance}
+annoy;{anyone}
+arise;{aspire, praise, serial}
+armed;{admire}
+arrow;{narrow}
+aside;{advise}
+asset;{assert}
+beach;{breach}
+beast;{absent, basket, breast, stable}
+birth;{bright}
+blast;{stable}
+brave;{verbal}
+break;{embark}
+bride;{bridge, debris}
+bring;{boring}
+burst;{robust}
+cater;{carpet}
+cause;{clause}
+cease;{escape}
+chase;{search}
+cheap;{preach}
+chest;{sketch}
+clean;{candle, glance}
+close;{closed, closet}
+count;{county}
+craft;{factor}
+crash;{search}
+cream;{scream}
+creep;{recipe}
+cross;{across}
+crude;{curved}
+curve;{curved}
+dairy;{Friday}
+dance;{candle, dancer}
+death;{hatred, thread}
+debut;{budget}
+demon;{modern}
+diary;{Friday}
+donor;{indoor}
+dream;{admire}
+drive;{divert, varied}
+drown;{wonder}
+early;{barely, lawyer, nearly, player}
+earth;{breath, father, gather, hatred, thread}
+eight;{eighty, weight}
+elect;{select}
+enact;{stance}
+ensue;{ensure}
+enter;{center, entire, recent, tender, tenure}
+erect;{center, create, recent, reject, secret}
+error;{terror}
+ethic;{ethnic}
+exert;{expert}
+favor;{flavor}
+field;{failed}
+fight;{flight}
+force;{confer}
+forge;{forget}
+forth;{fourth}
+found;{unfold}
+genre;{energy, gender}
+giant;{rating}
+globe;{belong, oblige}
+grace;{charge}
+grade;{danger, garden}
+grain;{margin, racing, rating, regain}
+grand;{danger, garden}
+grant;{rating}
+great;{gather}
+green;{energy, gender}
+grief;{figure, finger}
+grind;{during}
+guilt;{guilty}
+heart;{breath, father, gather, hatred, thread}
+horse;{shower}
+ideal;{denial, detail, failed}
+imply;{simply}
+infer;{finger, friend}
+inner;{dinner, winner}
+issue;{tissue}
+label;{ballet, liable}
+laser;{serial}
+later;{rental, retail, travel}
+layer;{barely, lawyer, nearly, player}
+learn;{linear, nearly, rental}
+least;{castle, stable}
+leave;{reveal}
+light;{flight, slight}
+liter;{filter, retail}
+liver;{silver}
+lower;{flower}
+lunch;{launch}
+media;{admire}
+merge;{regime}
+merit;{permit, timber}
+metal;{mental}
+meter;{remote}
+miner;{marine, remain, remind}
+minor;{inform}
+model;{melody, module, seldom}
+money;{monkey}
+moral;{formal, normal}
+mount;{amount}
+mouse;{mosque}
+movie;{motive}
+niche;{enrich, ethnic}
+noble;{belong}
+noise;{senior}
+offer;{effort}
+onion;{notion}
+order;{border, record}
+organ;{orange}
+other;{bother, mother, theory}
+owner;{wonder}
+panel;{planet}
+party;{partly}
+peace;{escape}
+phase;{phrase, shaped}
+piece;{recipe}
+pilot;{polite}
+plane;{planet}
+plant;{planet}
+plate;{planet}
+power;{powder}
+price;{prince}
+pride;{period, spider}
+prime;{permit}
+raise;{aspire, praise, serial}
+rally;{really}
+range;{danger, garden, orange, regain}
+reach;{breach, charge, preach, search}
+react;{carpet}
+refer;{prefer}
+reign;{finger, ignore, linger, regain, region, resign, singer}
+reply;{player, purely}
+rifle;{filter}
+right;{bright}
+river;{arrive, driver}
+round;{around, ground}
+saint;{strain}
+sauce;{clause}
+scale;{castle, clause}
+scare;{sacred, scared, scream, search}
+scene;{screen}
+score;{course, sector, source}
+serve;{revise}
+shade;{shaped}
+shape;{phrase, shaped}
+share;{phrase, search}
+sharp;{phrase}
+sheep;{speech, sphere}
+sheer;{sphere}
+shirt;{theirs}
+shoot;{smooth}
+shore;{shower}
+sight;{slight}
+since;{insect}
+skirt;{strike}
+sleep;{asleep, please}
+smart;{master, stream}
+smile;{simple}
+solar;{sailor}
+space;{aspect}
+spare;{aspire, phrase, praise, spread}
+spite;{priest}
+spoon;{poison}
+sport;{pastor, poster}
+stair;{racist, strain}
+stake;{basket}
+stand;{strand}
+stare;{breast, master, starve, stream}
+start;{artist}
+state;{latest, statue}
+steal;{castle, stable}
+steam;{master, stream}
+steel;{select}
+steer;{desert, secret}
+stick;{sticky}
+stone;{honest}
+store;{forest, foster, poster, sector, stroke}
+strip;{priest, script}
+super;{superb}
+swear;{answer}
+table;{stable}
+taste;{latest, statue}
+terms;{master, stream}
+their;{thrive}
+theme;{helmet}
+there;{either}
+three;{either}
+throw;{growth, worthy}
+tired;{credit, direct, divert, editor}
+title;{litter, toilet}
+toxic;{exotic}
+trace;{carpet}
+trade;{depart, hatred, thread}
+trail;{retail, ritual, tribal}
+train;{rating, retain, strain}
+trait;{artist}
+treat;{latter, matter, rotate, target, threat, treaty}
+trial;{retail, ritual, tribal}
+tribe;{timber}
+under;{burden}
+unite;{minute, united}
+until;{insult}
+upper;{purple}
+verse;{revise}
+water;{waiter}
+weigh;{weight}
+wheat;{wealth}
+white;{weight}
+whose;{shower}
+widow;{window}
+worse;{shower}
+worth;{growth, worthy}
+write;{waiter, winter}
+yield;{widely}
