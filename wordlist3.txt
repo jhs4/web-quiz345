@@ -1,167 +1,218 @@
-act;{cast, chat, coat, fact}
-add;{dead}
-age;{aged, game, gate, gaze, gear, page, rage, wage}
-ago;{goal}
-aid;{acid, aide, amid, idea, raid}
-aim;{amid, mail, main}
-air;{fair, hair, pair, raid, rail, rain}
-all;{ally, ball, call, fall, hall, mall, tall, wall}
-and;{band, dawn, hand, land, sand}
-any;{many}
-arm;{army, farm, harm, mark, warm}
-art;{part, rate, star, tear, trap}
-ash;{cash, wash}
-ask;{mask, sake, soak, task}
-bad;{band}
-bag;{grab}
-ban;{band, bank, bean}
-bar;{bare, bear, grab}
-bat;{bath, beat, boat, stab}
-bed;{bend, debt}
-bee;{beef, beer}
-bet;{beat, belt, bent, best, bite, debt, tube}
-bid;{bind, bird}
-bit;{bite}
-bow;{blow, bowl}
-boy;{body, obey}
-bus;{bush, busy}
-but;{tube}
-buy;{bury, busy}
-bye;{obey}
-can;{scan}
-cap;{camp, pace, pack}
-car;{acre, card, care, race}
-cat;{cast, chat, coat, fact}
-cop;{chop, cope, copy, coup, crop}
-cue;{clue, cure, cute}
-cup;{coup}
-cut;{cult, cute}
-dad;{dead}
-dam;{amid}
-day;{lady, yard}
-die;{aide, diet, dime, dive, edit, hide, idea, ride, side, tide, wide}
-dig;{grid}
-dog;{gold}
-dry;{yard}
-dub;{dumb}
-due;{rude, used}
-duo;{loud}
-ear;{acre, bare, bear, care, dare, dear, earn, fare, fear, gear, hear, near, race, rage, rate, read, real, tear, wear, year}
-eat;{beat, date, east, fate, feat, gate, hate, heat, late, mate, meat, neat, rate, seat, take, tale, tape, team, tear}
-end;{bend, deny, lend, send, tend}
-era;{acre, bare, bear, care, dare, dear, earn, fare, fear, gear, hear, near, race, rage, rate, read, real, tear, wear, year}
-far;{fair, fare, farm, fear}
-fat;{fact, fast, fate, feat, flat}
-fee;{beef, feed, feel, flee, free}
-few;{wife}
-fit;{gift, lift}
-flu;{fuel}
-for;{fork, form, four, frog, from}
-fun;{fund}
-fur;{four}
-gap;{page}
-gay;{gray}
-get;{gate}
-god;{gold}
-gun;{lung}
-guy;{ugly}
-hat;{bath, chat, halt, hate, heat, math, path, than, what}
-her;{hear, herb, hero, hire}
-hey;{they, yeah}
-hip;{chip, ship, whip}
-his;{dish, fish, ship, sigh, this, wish}
-hit;{hint, thin, this, with}
-hot;{both, host, shot}
-how;{show, whom}
-ice;{cite, nice, rice, vice}
-ill;{bill, fill, hill, kill, mill, pill, till, will}
-ink;{kind, king, link, pink, sink, skin}
-its;{list, site, stir, suit, this}
-kid;{disk, kind}
-lab;{able, bail}
-lap;{lamp, leap, pale, palm, plan, play, plea, slap}
-law;{flaw, lawn, walk}
-lay;{lady, lazy, play}
-let;{belt, late, left, melt, tale}
-lie;{evil, file, life, like, line, live, mile, pile}
-lip;{clip, pile, slip}
-log;{blog, goal, gold, golf, long}
-lot;{lost, plot, slot}
-low;{blow, bowl, flow, slow, wolf}
-mad;{amid}
-man;{main, many, mean, name}
-map;{camp, lamp, palm, spam}
-may;{army, many}
-mom;{memo}
-mud;{drum, dumb, dump}
-net;{bent, cent, neat, nest, next, note, rent, tend, then, tone, tune}
-new;{when, wine}
-nod;{bond, down, fond, pond}
-nor;{born, corn, horn, iron, norm}
-not;{into, note, tone, town}
-now;{down, know, snow, town}
-nut;{aunt, hunt, stun, tune, turn, unit}
-oil;{boil, lion, soil}
-old;{bold, cold, fold, gold, hold, load, lord, loud}
-one;{bone, nose, note, once, open, oven, tone, zone}
-opt;{plot, poet, port, post, spot, stop}
-our;{euro, four, hour, pour, tour, your}
-out;{auto, tour}
-own;{down, know, snow, town}
-pan;{pain, plan, snap, span}
-pay;{play, pray}
-pen;{open}
-per;{prey, pure, rope}
-pet;{poet, step, tape, type}
-pig;{grip}
-pin;{pain, pink, spin}
-pit;{pity, trip}
-pot;{plot, poet, port, post, spot, stop}
-rat;{part, rate, star, tear, trap}
-raw;{draw, ward, warm, warn, wear, wrap}
-ray;{army, gray, pray, vary, yard, year}
-red;{dare, dear, read, ride, rude}
-rid;{bird, dirt, grid, raid, ride}
-rip;{grip, pair, trip}
-rob;{born}
-rod;{drop, lord, road, word}
-row;{grow, word, work, worm}
-rub;{burn, bury}
-run;{burn, ruin, turn}
-sad;{sand}
-say;{easy, stay}
-sea;{base, case, east, easy, safe, sake, sale, same, save, seal, seat}
-see;{ease, else, seed, seek, seem}
-set;{best, east, nest, rest, seat, site, stem, step, west}
-she;{hers, shed, shoe}
-sin;{sign, sing, sink, skin, spin}
-sir;{rise, risk, stir}
-sit;{list, site, stir, suit, this}
-ski;{disk, risk, sick, silk, sink, skin, skip}
-son;{nose, snow, song}
-sue;{sure, used, user}
-sum;{must}
-sun;{stun}
-tag;{gate}
-tap;{part, past, path, tape, trap}
-tax;{taxi}
-tea;{beat, date, east, fate, feat, gate, hate, heat, late, mate, meat, neat, rate, seat, take, tale, tape, team, tear}
-ten;{bent, cent, neat, nest, next, note, rent, tend, then, tone, tune}
-the;{hate, heat, them, then, they}
-tie;{bite, cite, diet, edit, exit, item, site, tide, time, tire}
-tip;{pity, trip}
-toe;{note, poet, tone, vote}
-ton;{into, note, tone, town}
-too;{boot, foot, onto, root, tool}
-top;{plot, poet, port, post, spot, stop}
-two;{town}
-use;{sure, used, user}
-via;{visa}
-war;{draw, ward, warm, warn, wear, wrap}
-wet;{west}
-who;{show, whom}
-win;{twin, wind, wine, wing}
-wit;{twin, wait, with}
-yes;{easy}
-yet;{they, type}
-you;{your}
+act;cart,cast,chat,coat,fact
+add;dead
+age;aged,game,gate,gave,gaze,gear,page,rage,wage
+ago;goal,goat
+aid;acid,aide,amid,idea,maid,raid,said
+aim;amid,maid,mail,main
+air;fair,hair,pair,raid,rail,rain
+all;ally,ball,call,fall,hall,mall,tall,wall
+and;band,damn,dawn,hand,land,sand
+any;many,navy
+apt;pant,part,past,path,tape,trap
+arc;acre,arch,card,care,cart,race,scar
+are;acre,area,bare,bear,care,dare,dear,earn,fare,fear,gear,hear,near,race,rage,rare,rate,read,real,rear,tear,wear,year
+arm;army,farm,gram,harm,mark,warm
+art;cart,part,rate,star,tear,trap
+ash;cash,dash,wash
+ask;mask,sake,soak,task
+axe;exam
+bad;band,bead
+bag;grab
+ban;band,bank,bean
+bar;arab,bare,bark,bear,grab
+bat;bath,beat,boat,stab
+bay;baby
+bed;bead,bend,debt
+bee;beef,been,beer
+bet;beat,belt,bent,best,bite,debt,tube
+bid;bind,bird,ibid
+bit;bite
+bow;blow,bowl,brow
+boy;body,obey
+bud;dumb
+bus;bush,busy
+but;tube
+buy;bury,busy
+bye;obey
+can;cane,clan,scan
+cap;camp,chap,pace,pack
+car;acre,arch,card,care,cart,race,scar
+cat;cart,cast,chat,coat,fact
+com;come,mock
+con;coin,cone,corn,icon,once
+cop;chop,cope,copy,coup,crop
+cue;clue,cure,cute
+cup;coup
+cut;cult,cute,duct
+dad;dead
+dam;amid,damn,damp,made,maid
+dan;band,damn,dawn,hand,land,sand
+day;lady,yard
+den;bend,deny,dine,done,lend,need,node,send,tend
+die;aide,diet,dime,dine,dive,edit,hide,idea,idle,ride,side,tide,wide
+dig;grid
+dim;amid,dime,maid,mild,mind
+dog;gold,good
+don;bond,done,dont,down,fond,node,pond
+dot;dont,told
+dry;yard
+dub;dumb
+due;duke,rude,used
+duo;loud
+dye;defy,deny
+ear;acre,area,bare,bear,care,dare,dear,earn,fare,fear,gear,hear,near,race,rage,rare,rate,read,real,rear,tear,wear,year
+eat;beat,date,east,fate,feat,gate,hate,heat,late,mate,meat,neat,rate,seat,take,tale,tape,team,tear
+ego;gone
+eld;deal,held,idle,lead,lend,weld
+end;bend,deny,dine,done,lend,need,node,send,tend
+era;acre,area,bare,bear,care,dare,dear,earn,fare,fear,gear,hear,near,race,rage,rare,rate,read,real,rear,tear,wear,year
+far;fair,fare,farm,fear
+fat;fact,fast,fate,feat,flat
+fee;beef,feed,feel,feet,flee,free
+few;wife
+fig;gift
+fit;gift,lift
+flu;flux,fuel,full
+for;fork,form,fort,four,frog,from,roof
+fun;fund
+fur;four
+gap;page
+gay;gray
+get;gate
+god;gold,good
+got;goat
+gun;lung
+guy;ugly
+had;dash,hand,hard,head
+has;cash,dash,wash
+hat;bath,chat,halt,hate,heat,math,oath,path,than,that,what
+her;hear,heir,herb,herd,here,hero,hire
+hey;they,yeah
+hip;chip,ship,whip
+his;dish,fish,ship,sigh,this,wish
+hit;hint,thin,this,with
+hot;both,host,oath,shot,thou
+how;show,whom
+hut;hunt,hurt,shut,thou,thus
+ice;ceil,cite,epic,nice,rice,vice
+ill;bill,fill,hill,kill,mill,pill,till,will
+ink;kind,king,link,pink,sink,skin
+ion;coin,icon,info,into,iron,join,lion
+its;list,site,stir,suit,this
+kid;disk,kind
+lab;able,bail,ball
+lad;deal,dual,glad,lady,land,lead,load
+lag;flag,glad,goal
+lap;flap,lamp,leap,pale,palm,plan,play,plea,slap
+law;flaw,lawn,walk,wall
+lay;ally,clay,lady,lazy,play,slay
+led;deal,held,idle,lead,lend,weld
+let;belt,felt,late,left,lest,melt,tale,tell,tile
+lie;ceil,evil,file,idle,life,like,lime,line,live,mile,pile,tile,veil
+lip;clip,pile,pill,slip
+log;blog,glow,goal,gold,golf,logo,long
+lot;bolt,lost,plot,slot,toil,told,toll,tool
+low;blow,bowl,flow,glow,slow,wolf,wool
+mad;amid,damn,damp,made,maid
+man;damn,main,many,mean,name
+map;camp,damp,lamp,palm,spam
+mat;atom,mate,math,meat,team
+may;army,many
+men;mean,menu,mine,name
+mid;amid,dime,maid,mild,mind
+mob;bomb,boom,tomb
+mom;memo
+mud;drum,dumb,dump
+net;bent,cent,neat,nest,next,note,rent,sent,teen,tend,tent,then,tone,tune,went
+new;knew,went,when,wine
+nod;bond,done,dont,down,fond,node,pond
+nor;born,corn,horn,iron,norm
+not;dont,into,knot,note,onto,tone,town,unto,wont
+now;down,know,snow,town,wont
+nut;aunt,hunt,stun,tune,turn,unit,unto
+oak;okay,soak
+oil;boil,coil,lion,soil,toil
+old;bold,cold,fold,gold,hold,load,lord,loud,mold,told
+one;bone,cone,done,gone,lone,node,none,nose,note,once,open,oven,tone,zone
+opt;plot,poet,port,post,spot,stop
+ore;bore,core,euro,hero,more,over,robe,role,rope,rose,zero
+our;euro,four,hour,pour,tour,your
+out;auto,thou,tour,unto
+own;down,know,snow,town,wont
+pad;damp
+pan;pain,pant,plan,snap,span
+par;pair,para,park,part,pray,trap,wrap
+pay;play,pray
+pen;open,pine
+per;peer,prey,pure,rope
+pet;kept,poet,step,tape,type
+pie;epic,pile,pine,pipe,wipe
+pig;grip
+pin;pain,pine,pink,spin
+pit;pity,trip
+pop;pope
+pot;plot,poet,port,post,spot,stop
+pre;peer,prey,pure,rope
+pro;crop,drop,poor,port,pour,rope
+rag;drag,gear,grab,gram,gray,rage
+ran;earn,near,rain,rank,warn
+rat;cart,part,rate,star,tear,trap
+raw;draw,ward,warm,warn,wear,wrap
+ray;army,gray,pray,vary,yard,year
+red;dare,dear,deer,drew,herd,read,ride,rude
+rib;bird
+rid;bird,dirt,grid,raid,ride
+rip;grip,pair,trip
+rob;bore,born,brow,robe
+rod;cord,door,drop,lord,odor,road,word
+row;brow,grow,word,work,worm
+rub;burn,bury
+rug;drug,urge
+run;burn,ruin,turn
+sad;dash,said,sand
+sat;cast,east,fast,last,past,salt,seat,stab,star,stay,task,vast
+saw;sway,wash
+say;easy,slay,stay,sway
+sea;base,case,ease,east,easy,safe,sake,sale,same,save,seal,seat
+see;ease,else,seed,seek,seem
+set;best,east,lest,nest,rest,seat,sect,sent,site,stem,step,test,vest,west
+she;hers,shed,shew,shoe
+sin;sign,sing,sink,skin,spin
+sir;rise,risk,stir
+sit;list,site,stir,suit,this
+six;axis
+ski;disk,kiss,risk,sick,silk,sink,skin,skip
+son;nose,snow,song,soon
+sow;show,slow,snow
+sub;bush,busy
+sue;fuse,sure,used,user
+sum;must
+sun;stun
+tag;gate,goat
+tap;pant,part,past,path,tape,trap
+tax;taxi
+tea;beat,date,east,fate,feat,gate,hate,heat,late,mate,meat,neat,rate,seat,take,tale,tape,team,tear
+ten;bent,cent,neat,nest,next,note,rent,sent,teen,tend,tent,then,tone,tune,went
+the;hate,heat,them,then,they
+thy;myth,they
+tie;bite,cite,diet,edit,exit,item,rite,site,tide,tile,time,tire
+tin;anti,hint,into,thin,tiny,twin,unit
+tip;pity,trip
+toe;note,poet,tone,vote
+ton;dont,into,knot,note,onto,tone,town,unto,wont
+too;boot,foot,onto,root,took,tool
+top;plot,poet,port,post,spot,stop
+two;town,wont
+use;fuse,sure,used,user
+van;navy,vain
+war;draw,ward,warm,warn,wear,wrap
+was;sway,wash
+way;away,sway
+wed;drew,weed,weld,wide
+wet;went,west
+who;show,whom
+win;twin,wind,wine,wing
+wit;twin,wait,with
+yes;easy
+yet;they,type
+you;your

@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', () => {
                     const [fourLetterWord, fiveLetterWords] = line.split(';');
                     return {
                         fourLetterWord,
-                        fiveLetterWords: fiveLetterWords.trim().slice(1, -1).split(', ').map(word => word.trim())
+                        fiveLetterWords: fiveLetterWords.trim().split(',').map(word => word.trim())
                     };
                 });
                 document.getElementById('startButtons').style.display = 'none';
-                document.getElementById('gameInfo').style.display = 'none';  // Add this line
+                document.getElementById('gameInfo').style.display = 'none';
                 quizDiv.style.display = 'block';
                 startOverButton.style.display = 'block';
                 loadNextWord();
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
     startOverButton.addEventListener('click', () => {
         quizDiv.style.display = 'none';
         document.getElementById('startButtons').style.display = 'block';
-        document.getElementById('gameInfo').style.display = 'block';  // Add this line
+        document.getElementById('gameInfo').style.display = 'block';
         quizTitle.textContent = 'Choose a word length';
         wordDisplay.innerHTML = '';
         guessedWords = [];
@@ -54,8 +54,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     submitGuessButton.addEventListener('click', () => {
         const guess = userGuessInput.value.trim().toLowerCase();
-        console.log('Current guess:', guess); // Debug message
-        console.log('Current five letter words:', currentWord.fiveLetterWords); // Debug message
         if (currentWord.fiveLetterWords.includes(guess)) {
             if (!guessedWords.includes(guess)) {
                 guessedWords.push(guess);
@@ -75,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const randomIndex = Math.floor(Math.random() * wordList.length);
         currentWord = wordList[randomIndex];
         currentWord.fiveLetterWords = currentWord.fiveLetterWords.sort(() => Math.random() - 0.5); // shuffle
-        console.log('Current correct words:', currentWord.fiveLetterWords);
+        console.log(currentWord.fiveLetterWords);
         quizTitle.textContent = currentWord.fourLetterWord.toUpperCase(); // Update title with the current word
         guessedWords = [];
         displayGuessedWords();
